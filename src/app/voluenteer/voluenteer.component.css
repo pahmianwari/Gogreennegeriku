@@ -1,0 +1,21 @@
+body{
+    margin: 20px;
+}
+table {
+    border-collapse: collapse;
+    width: 90%;
+  }
+  
+  th, td {
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+    box-shadow: 10px;
+  }
+  
+  th {
+    background-color: #ffffff;
+  }
+  .satu{
+    width: 50px;
+  }

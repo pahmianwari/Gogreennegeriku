@@ -1,0 +1,54 @@
+body{
+    height: 119vh;
+    background: url(../../assets/img/BACKGROUND.png);
+    background-size: cover;
+    
+}
+.navbar-brand img{
+    width: 100px;
+    height: 100px;
+}
+.navbar-nav{
+   
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 94px;
+
+    width: 710px;
+    height: 36px;
+    left: 356px;
+    top: 62px;
+}
+button{
+    background-color: rgba(251, 251, 251, 0.32);
+    border-radius: 10px;
+    width: 100px;
+}
+.ls{
+    background-color: #D9D9D9;
+    border-radius: 10px;
+    width: 200px;
+    position: relative;
+    left: 20px;
+    border: none;
+
+}
+.container-fluid{
+    position: sticky;
+    bottom: 30px;
+   
+}
+.card-group {
+    /* height: 145px; */
+    margin-top: 125px;
+    font-size: 12px;
+}
+
+.card{
+    background-color: darkgrey;
+}
+
+.card-title{
+    padding-top: 10px;
+    font-weight: 900;
+}

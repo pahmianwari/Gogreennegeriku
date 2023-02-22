@@ -1,0 +1,68 @@
+body{
+    height: 153vh;
+    background: url(../../assets/img/BACKGROUND.png);
+    background-size: cover;
+    
+}
+.navbar-brand img{
+    width: 100px;
+    height: 100px;
+}
+.navbar-nav{
+   
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 94px;
+
+    width: 710px;
+    height: 36px;
+    left: 356px;
+    top: 62px;
+}
+button{
+    background-color: rgba(251, 251, 251, 0.32);
+    border-radius: 10px;
+    width: 100px;
+}
+.ls{
+    background-color: #D9D9D9;
+    border-radius: 10px;
+    width: 200px;
+    position: relative;
+    left: 20px;
+    border: none;
+
+}
+.line{
+    border: 1px black solid;
+    height: 550px;
+    width: 0px;
+}
+/* .countainer{
+    margin-top: 100px;
+    position: relative;
+    padding: 100px;
+    color: #fffff;
+} */
+/* .garis{
+    border: 1px black solid;
+    height: 335px;
+    width: 0px;
+} */
+.card-group {
+    /* height: 50px; */
+    margin-top: 100px;
+    font-size: 12px;
+}
+.card{
+    background-color: darkgray;
+}
+
+.card-title{
+    padding-top: 10px;
+    font-weight: 900;
+}
+a{
+    text-decoration: none;
+    color: black;
+}

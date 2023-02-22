@@ -1,0 +1,108 @@
+body{
+	/* height: 85vh; */
+	background: url('../../assets/img/BACKGROUND.png') fixed;
+	background-size: cover;
+	padding: 0;
+	margin: 0;
+	/*min-height: 100vh;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+}
+
+.navbar-brand img{
+    width: 100px;
+    height: 100px;
+}
+
+
+.navbar-nav{
+   
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 94px;
+
+    width: 710px;
+    height: 36px;
+    left: 356px;
+    top: 62px;
+    color: white;
+}
+.logo{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #000000;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+/* .global-container{
+	height: 100%;
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
+	color: #000000;
+} */
+
+
+
+
+/* .card-title{
+	padding-top: 20px;
+	font-weight: 900;
+} */
+button{
+    background-color: rgba(251, 251, 251, 0.32);
+    border-radius: 10px;
+    width: 100px;
+}
+/* .btn{
+	background: #ffff;
+	color: #000;
+	transform: translateY(10px);
+	font-size: 14px;
+	border-radius: 10px;
+	border: none;
+	font-weight: 800;
+} */
+
+
+/* .form-check a{
+	text-decoration: none;
+	color: black;
+	font-weight: 800;
+
+} */
+
+/* .form{
+	font-weight: 50;
+} */
+
+.card-group{
+	margin-top: 80px;
+	/* font-size: 12px; */
+}
+
+.card{
+	background-color: darkgray;
+}
+
+.card-title{
+	padding-top: 10px;
+	font-weight: 900;
+}
+
+.container-fluid{
+	margin-top: 5px;
+	color: white;
+	/* position:sticky; */
+}
+.container-content{
+	margin-top: 100px;
+	color:white
+}
+
+.paragraf{
+	font-size: x-large;
+}
